@@ -4,6 +4,7 @@
 |---|---|---|
 |-|-|***To-Do***|
 ||n/a|Return Apple Charger|
+||n/a|Contacts for Polly|
 ||n/a|Flight Check-In Activities (Verifly)|
 ||n/a|ArriveCan (72 Hour Registration)|
 |n/a||Re-Entry Testing|
