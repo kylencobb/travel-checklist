@@ -15,7 +15,9 @@
 |||Vaccination Proof|
 |||Covid Tests (re-entry + rapid)|
 |||Epic Pass|
-|||Masks|
+|||N95 Masks|
+|||Cloth Masks|
+|||Mask Filters|
 |||Board Games|
 |||Hot Hands|
 |||Ski Helmet|
@@ -39,6 +41,8 @@
 |||Watch + Phone Charger|
 |||Power Bank|
 |||Power Bank Charger|
+|||Bluetooth Headphones|
+|||Wired Headphones|
 |-|-|***Clothing***|
 |||Beanie(s)|
 |||Sunglasses|
