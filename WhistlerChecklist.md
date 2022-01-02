@@ -2,12 +2,12 @@
 
 |Out|Back|Item|
 |---|---|---|
-|||==To-Do==|
+|||***To-Do***|
 ||n/a|Return Apple Charger|
 ||n/a|Flight Check-In Activities (Verifly)|
 ||n/a|ArriveCan (72 Hour Registration)|
 |n/a||Re-Entry Testing|
-|||###***Miscellaneous***|
+|||***Miscellaneous***|
 |||Passport|
 |||Wallet|
 |||Covid Test Results|
@@ -22,13 +22,13 @@
 |||Gum|
 |||Water Bottle|
 |||Book(s)|
-|||###***Toiletries***|
+|||***Toiletries***|
 |||Sanitizer|
 |||Toothbrush|
 |||Toothpaste|
 |||Deodorent|
 |||Medication|
-|||###***Electronics***|
+|||***Electronics***|
 |||Laptop|
 |||Movies|
 |||Mouse|
@@ -38,7 +38,7 @@
 |||Watch + Phone Charger|
 |||Power Bank|
 |||Power Bank Charger|
-|||###***Clothing***|
+|||***Clothing***|
 |||Beanie(s)|
 |||Sunglasses|
 |||Base Layer Bottoms|
