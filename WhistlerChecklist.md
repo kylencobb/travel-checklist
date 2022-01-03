@@ -2,14 +2,14 @@
 
 |Out Pre|Out|Back|Item|
 |---|---|---|---|
-|-|-|-|***To-Do***|
+|***TO-DO***|-|-|-|
 |||n/a|Return Apple Charger|
 |||n/a|Contacts for Polly|
 |||n/a|Pay Dr. Deitchman|
 |||n/a|Flight Check-In Activities (Verifly)|
 |||n/a|ArriveCan (72 Hour Registration)|
 |n/a|n/a||Re-Entry Testing|
-|-|-|-|***Miscellaneous***|
+|***MISCELLANEOUS***|-|-|-|
 ||||Passport|
 ||||Wallet|
 ||||Covid Test Results|
@@ -26,13 +26,13 @@
 ||||Gum|
 ||||Water Bottle|
 ||||Book(s)|
-|-|-|-|***Toiletries***|
+|***TOILETRIES***|-|-|-|
 ||||Sanitizer|
 ||||Toothbrush|
 ||||Toothpaste|
 ||||Deodorent|
 ||||Medication|
-|-|-|-|***Electronics***|
+|***ELECTRONICS***|-|-|-|
 ||||Laptop|
 ||||Movies|
 ||||Mouse|
@@ -44,7 +44,7 @@
 ||||Power Bank Charger|
 ||||Bluetooth Headphones|
 ||||Wired Headphones|
-|-|-|-|***Clothing***|
+|***CLOTHING***|-|-|-|
 ||||Beanie(s)|
 ||||Sunglasses|
 ||||Base Layer Bottoms|
