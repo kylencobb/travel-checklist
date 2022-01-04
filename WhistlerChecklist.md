@@ -27,6 +27,7 @@
 |-||||Water Bottle|
 |-||||Book(s)|
 |***TOILETRIES***|-|-|-|-|
+|-||||Razor|
 |-||||Sanitizer|
 |-||||Toothbrush|
 |-||||Toothpaste|
@@ -61,3 +62,4 @@
 |-||||Gaiter|
 |-||||Sweatpants|
 |-||||Loungewear|
+|-||||Swimsuit|
