@@ -11,18 +11,18 @@
 |-|n/a|n/a||Re-Entry Testing|
 |***MISCELLANEOUS***|-|-|-|-|
 |-|x|||Passport|
-|-||||Wallet|
-|-||||Covid Test Results|
+|-|x|||Wallet|
+|-|n/a|||Covid Test Results|
 |-|x|||Vaccination Proof|
 |-|x|||Covid Tests (re-entry + rapid)|
 |-|x|||Epic Pass|
-|-||||N95 Masks|
-|-||||Cloth Masks|
-|-||||Mask Filters|
-|-||||Board Games|
+|-|x|||N95 Masks|
+|-|x|||Cloth Masks|
+|-|x|||Mask Filters|
+|-|x|||Board Games|
 |-|x|||Hot Hands|
-|-||||Ski Helmet|
-|-||||Ski Goggles|
+|-|x|||Ski Helmet|
+|-|x|||Ski Goggles|
 |-|x|||Gum|
 |-|x|||Water Bottle|
 |-|x|||Book(s)|
@@ -51,14 +51,14 @@
 |-|x|||Base Layer Bottoms|
 |-|x|||Base Layer Tops|
 |-|x|||Sweaters/Mid-Layer|
-|-||||Jeans|
+|-|x|||Jeans|
 |-|x|||Ski Jacket|
 |-|x|||Ski Pants|
 |-|x|||Socks|
 |-|x|||Underwear|
 |-|x|||Mittens|
-|-||||Slippers|
-|-||||Boots|
+|-|x|||Slippers|
+|-|x|||Boots|
 |-|x|||Gaiter|
 |-|x|||Sweatpants|
 |-|x|||Loungewear|
