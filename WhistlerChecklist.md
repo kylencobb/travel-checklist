@@ -14,8 +14,8 @@
 |-||||Wallet|
 |-||||Covid Test Results|
 |-|x|||Vaccination Proof|
-|-||||Covid Tests (re-entry + rapid)|
-|-||||Epic Pass|
+|-|x|||Covid Tests (re-entry + rapid)|
+|-|x|||Epic Pass|
 |-||||N95 Masks|
 |-||||Cloth Masks|
 |-||||Mask Filters|
@@ -24,13 +24,13 @@
 |-||||Ski Helmet|
 |-||||Ski Goggles|
 |-|x|||Gum|
-|-||||Water Bottle|
-|-||||Book(s)|
+|-|x|||Water Bottle|
+|-|x|||Book(s)|
 |***TOILETRIES***|-|-|-|-|
 |-||||Razor|
-|-||||Sanitizer|
+|-|x|||Sanitizer|
 |-||||Toothbrush|
-|-||||Toothpaste|
+|-|x|||Toothpaste|
 |-||||Deodorent|
 |-||||Medication|
 |***ELECTRONICS***|-|-|-|-|
@@ -40,11 +40,11 @@
 |-||||Laptop Charger|
 |-||||Phone|
 |-||||Watch|
-|-||||Watch + Phone Charger|
-|-||||Power Bank|
-|-||||Power Bank Charger|
-|-||||Bluetooth Headphones|
-|-||||Wired Headphones|
+|-|x|||Watch + Phone Charger|
+|-|x|||Power Bank|
+|-|x|||Power Bank Charger|
+|-|x|||Bluetooth Headphones|
+|-|x|||Wired Headphones|
 |***CLOTHING***|-|-|-|-|
 |-|x|||Beanie(s)|
 |-|x|||Sunglasses|
