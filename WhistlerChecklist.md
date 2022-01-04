@@ -10,10 +10,10 @@
 |-|||n/a|ArriveCan (72 Hour Registration)|
 |-|n/a|n/a||Re-Entry Testing|
 |***MISCELLANEOUS***|-|-|-|-|
-|-||||Passport|
+|-|x|||Passport|
 |-||||Wallet|
 |-||||Covid Test Results|
-|-||||Vaccination Proof|
+|-|x|||Vaccination Proof|
 |-||||Covid Tests (re-entry + rapid)|
 |-||||Epic Pass|
 |-||||N95 Masks|
@@ -23,7 +23,7 @@
 |-|x|||Hot Hands|
 |-||||Ski Helmet|
 |-||||Ski Goggles|
-|-||||Gum|
+|-|x|||Gum|
 |-||||Water Bottle|
 |-||||Book(s)|
 |***TOILETRIES***|-|-|-|-|
@@ -46,8 +46,8 @@
 |-||||Bluetooth Headphones|
 |-||||Wired Headphones|
 |***CLOTHING***|-|-|-|-|
-|-||||Beanie(s)|
-|-||||Sunglasses|
+|-|x|||Beanie(s)|
+|-|x|||Sunglasses|
 |-|x|||Base Layer Bottoms|
 |-|x|||Base Layer Tops|
 |-|x|||Sweaters/Mid-Layer|
@@ -59,7 +59,7 @@
 |-|x|||Mittens|
 |-||||Slippers|
 |-||||Boots|
-|-||||Gaiter|
+|-|x|||Gaiter|
 |-|x|||Sweatpants|
 |-|x|||Loungewear|
 |-|x|||Swimsuit|
