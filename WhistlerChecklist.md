@@ -38,8 +38,8 @@
 |-||||Movies|
 |-||||Mouse|
 |-||||Laptop Charger|
-|-||||Phone|
-|-||||Watch|
+|-|x|||Phone|
+|-|x|||Watch|
 |-|x|||Watch + Phone Charger|
 |-|x|||Power Bank|
 |-|x|||Power Bank Charger|
