@@ -4,7 +4,7 @@
 |---|---|---|---|---|
 |***TO-DO***|-|-|-|-|
 |-|||n/a|Return Apple Charger|
-|-|||n/a|Contacts for Polly|
+|-|x||n/a|Contacts for Polly|
 |-|||n/a|Pay Dr. Deitchman|
 |-|||n/a|Flight Check-In Activities (Verifly)|
 |-|||n/a|ArriveCan (72 Hour Registration)|
@@ -20,7 +20,7 @@
 |-||||Cloth Masks|
 |-||||Mask Filters|
 |-||||Board Games|
-|-||||Hot Hands|
+|-|x|||Hot Hands|
 |-||||Ski Helmet|
 |-||||Ski Goggles|
 |-||||Gum|
@@ -48,18 +48,18 @@
 |***CLOTHING***|-|-|-|-|
 |-||||Beanie(s)|
 |-||||Sunglasses|
-|-||||Base Layer Bottoms|
-|-||||Base Layer Tops|
-|-||||Sweaters/Mid-Layer|
+|-|x|||Base Layer Bottoms|
+|-|x|||Base Layer Tops|
+|-|x|||Sweaters/Mid-Layer|
 |-||||Jeans|
-|-||||Ski Jacket|
-|-||||Ski Pants|
-|-||||Socks|
-|-||||Underwear|
-|-||||Mittens|
+|-|x|||Ski Jacket|
+|-|x|||Ski Pants|
+|-|x|||Socks|
+|-|x|||Underwear|
+|-|x|||Mittens|
 |-||||Slippers|
 |-||||Boots|
 |-||||Gaiter|
-|-||||Sweatpants|
-|-||||Loungewear|
-|-||||Swimsuit|
+|-|x|||Sweatpants|
+|-|x|||Loungewear|
+|-|x|||Swimsuit|
