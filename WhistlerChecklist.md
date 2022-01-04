@@ -29,10 +29,10 @@
 |***TOILETRIES***|-|-|-|-|
 |-|x|||Razor|
 |-|x|||Sanitizer|
-|-||||Toothbrush|
+|-|x|||Toothbrush|
 |-|x|||Toothpaste|
-|-||||Deodorent|
-|-||||Medication|
+|-|x|||Deodorent|
+|-|x|||Medication|
 |***ELECTRONICS***|-|-|-|-|
 |-||||Laptop|
 |-||||Movies|
