@@ -27,7 +27,7 @@
 |-|x|||Water Bottle|
 |-|x|||Book(s)|
 |***TOILETRIES***|-|-|-|-|
-|-||||Razor|
+|-|x|||Razor|
 |-|x|||Sanitizer|
 |-||||Toothbrush|
 |-|x|||Toothpaste|
