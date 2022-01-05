@@ -34,10 +34,10 @@
 |-|x|x||Deodorent|
 |-|x|x||Medication|
 |***ELECTRONICS***|-|-|-|-|
-|-|x|||Laptop|
+|-|x|x||Laptop|
 |-|n/a|||Movies|
-|-|x|||Mouse|
-|-|x|||Laptop Charger|
+|-|x|x||Mouse|
+|-|x|x||Laptop Charger|
 |-|x|x||Phone|
 |-|x|x||Watch|
 |-|x|x||Watch + Phone Charger|
